@@ -13,6 +13,20 @@
     "license": "GPL3",
     "web": "https://github.com/YesDrX/gsl-nim/"
   },
+   {
+    "name": "jsontoxml",
+    "url": "https://github.com/MhedhebiIssam/jsontoxml/blob/main/jsontoxml.nim",
+    "method": "git",
+    "tags": [
+      "xml",
+      "json",
+      "convert",
+      "json to xml "
+    ],
+    "description": "convert json to xml ",
+    "license": "MIT",
+    "web": "https://github.com/MhedhebiIssam/jsontoxml/blob/main/jsontoxml.nim"
+  },
   {
     "name": "onnxruntime",
     "url": "https://github.com/YesDrX/onnxruntime-nim.git",
